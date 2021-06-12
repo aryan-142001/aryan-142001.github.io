@@ -1,0 +1,33 @@
+#div1{
+  height:900px;
+  width:1900px;
+  border: 4px dotted black;
+
+
+}
+
+#div2{
+
+  height:300px;
+  width:300px;
+  background-color: red;
+}
+
+
+#div3{
+
+  height:300px;
+  width:300px;
+  background-color: cyan;
+  position: sticky;
+  top:1px;
+
+}
+
+
+#div4{
+
+  height:300px;
+  width:300px;
+  background-color: green;
+}

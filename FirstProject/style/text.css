@@ -1,0 +1,49 @@
+p{
+  color:black;
+  font-size:20px;
+  font-weight: bold;
+
+}
+
+.uppercase{
+
+  text-transform: uppercase;
+  font-size: 22px;
+  font-weight:bold;
+}
+
+div{
+  display:inline-block;
+  width:70%;
+
+}
+
+#Comments_section input{
+
+    background-color: #c3aeae;
+    height:20px;
+}
+
+aside{
+  display:inline-block;
+  width:20%;
+  vertical-align: top;
+  border-top:  4px solid black;
+  padding:0px;
+  margin-left:10px;
+
+}
+
+#title_aside{
+
+  font-size: 40px;
+  align-content:space-between;
+
+}
+
+aside button{
+  margin-top: 4px;
+  background-color: black;
+  color:white;
+
+}
