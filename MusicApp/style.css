@@ -1,0 +1,136 @@
+body{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#main{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#header{
+    
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:center;
+    color: white;
+    font-size: 2rem;
+    font-family: none;
+    font-weight: normal;
+    color: white;
+    font-family: none;
+    
+}
+
+#header a{
+    
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items:center;
+    color: white;
+    font-size: 2rem;
+    font-family: none;
+    font-weight: normal;
+    color: white;
+    font-family: none;
+    font-weight: bold;
+    
+}
+
+#text h2{
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+    font-family: none;
+    text-transform: uppercase;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+#text h3{
+    color: white;
+    font-size: 3rem;
+    font-family: none;
+    text-transform: uppercase;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+#header img{
+    margin: 0rem;
+    padding: 0rem;
+    width: 3rem;
+    height: 4rem;
+}
+#video{
+    margin-top: 0%;
+    padding-top: 0%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+video{
+    width: 90%;
+    height: 70%;
+    margin: 0%;
+}
+
+#text2{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#text2 h2{
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#ready h2{
+    color: red;
+    font-size: 2.5rem;
+    text-align: center;
+    
+    font-weight: bold;
+}
+
+#ready{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+
+}
+
+#loading-btn a{
+    font-size: 1.5rem;
+    background-color: black;
+    border: none;
+    color: white;
+    border: 1px solid white;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+#loading-btn a:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
